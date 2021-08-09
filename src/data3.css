@@ -1,0 +1,28 @@
+
+
+.Card{
+    overflow: hidden;
+    box-shadow: 0 2px 20px ;
+    border-radius: 0ch;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    cursor:pointer ;
+    transition:transform 200ms ease-in;}
+    .card__image{
+     width: 20;
+     }
+
+.Wrapper{
+    width: 20px;
+    gap:20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction:row;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 400px;
+    border-radius: 20px;
+}
