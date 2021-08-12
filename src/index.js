@@ -8,7 +8,8 @@ import Foot from './footer';
 import Click from './click';
 import Data1 from './data1';
 import Pri from './data3';
-import App1 from './app1';
+import Form from './Form';
+
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
@@ -18,8 +19,8 @@ ReactDOM.render(
     <Appp/> 
     <App/>
     <Data1/>
+    <Form/>
     
-    <App1/>
     <Click/>
     <Foot/>
 
